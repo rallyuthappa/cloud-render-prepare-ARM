@@ -17,3 +17,4 @@ The ARM automation scripts creates:
 Pre-requisites:
 - This template assumes a Azure managed custom image is available within the subscription and in the location requested.
 
+Note: This template does not create render clients.
