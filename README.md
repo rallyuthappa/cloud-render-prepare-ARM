@@ -2,6 +2,7 @@
 # Prepre Cloud-based Render Environment on Azure using ARM Template
 
 This template prepares the environment for a basic cloud-based rendering solution on Azure. 
+![cloud-render-arm](https://user-images.githubusercontent.com/15788466/41114802-554fbc60-6a3a-11e8-9008-c9ae5ab618a5.jpg)
 ![capture4](https://user-images.githubusercontent.com/15788466/39262897-963d4274-4875-11e8-93b4-c8477bd2a147.PNG)
 
 The ARM automation scripts creates:
